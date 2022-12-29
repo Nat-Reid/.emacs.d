@@ -231,7 +231,7 @@
 		  ("l" . symex-go-up)
 
 		  ("C-k" . symex-leap-backward)
-		  ("C-j" . symex-leap-forward)
+		  ("C-j" . symex-leap-forward)
 		  
 		  ("H" . paredit-raise-sexp)
 		  ("J" . symex-shift-forward)
